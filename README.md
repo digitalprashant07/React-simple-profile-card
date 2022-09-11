@@ -1,3 +1,11 @@
+<h1>Creating profile card component</h1>
+
+
+![react card](https://user-images.githubusercontent.com/107924807/189517544-0090176a-6ea7-40bf-9b71-412d2745f5a5.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
